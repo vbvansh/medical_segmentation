@@ -55,7 +55,7 @@ The training script (train.py) has been modified to:
 
 
 ```bash
-git clone https://github.com/your-username/medical_segmentation.git
+git clone https://github.com/vbvansh/medical_segmentation.git
 cd medical_segmentation
 
 ```
